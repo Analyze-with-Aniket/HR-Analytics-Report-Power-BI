@@ -46,6 +46,7 @@ These KPIs will enable the HR team to identify trends and formulate effective re
 ## DAX function used:
 1. For Attrition Rate: sum function for calculating attrition count and employee count and then divide them
    Formula used: sum(HR_Analytics[AttritionCount])/sum(HR_Analytics[EmployeeCount])
+
 In KPI's I just used the options in power bi to get the results.
 
 # Key Insights
